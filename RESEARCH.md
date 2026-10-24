@@ -16,7 +16,7 @@ Problem: 주장의 인용문·문서 버전·행 범위를 확인하고 구조�
 
 1. Same functionality already exists? Yes, underlying domain operations are established. An existing tool configured for this exact task may remove the need for a separate project.
 2. Existing configuration enough? Plausibly; no exhaustive plugin/configuration execution was completed. Check the nearest tool before expanding this prototype.
-3. Another name? Search terms include Citation grounding auditor; citation grounding; 주장의 인용문·문서 버전·행 범위를 확인하고 구조화된 상충 주장을 드러낸다.; zotero; pandoc. Existing algorithm names appear in the method above.
+3. Another name? Search terms include quote citation exact source line hash grounding 인용 출처 검사. Existing algorithm names appear in the method above.
 4. Important user difference? Fewer runtime dependencies and a validated tool boundary are concrete; actual adoption and time savings remain unmeasured.
 5. Added complexity? Structured JSON is a real setup cost. A browser example and exact field errors reduce it, but do not erase it.
 6. Retraction evidence? An existing setup with the same access/contract or a failed invariant/performance comparison removes the claimed practical advantage.
